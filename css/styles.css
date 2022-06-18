@@ -1,6 +1,14 @@
-
-
-/* **************************HEADER sratr******************/
+/* Variables */
+:root {
+    --basic-dark:#2F303A;
+    --basic-blue:#2196F3;
+    --basic-background:#E5E5E5;  
+    --basic-white:#FFF; 
+    --basic-gray:rgba(255,255,255,0.6); 
+    --gray:#212121;; 
+    --light-gray:#757575; 
+}
+/* **************************HEADER start******************/
 
 
 
@@ -9,7 +17,7 @@
 /* **************************NAV start******************/
 .header-navigation-list {
  
-}
+} 
 
 /* **************************NAV end******************/
 
